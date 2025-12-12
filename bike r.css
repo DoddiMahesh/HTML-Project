@@ -1,0 +1,44 @@
+h2{
+	text-align:center;
+	
+}
+p{
+	text-align:center;
+}
+.grid-box img{
+	width:140px;
+	height:90px;
+}
+.grid-box{
+	display:grid;
+	grid-template-columns:300px 300px 300px;
+	grid-template-rows:310px 310px 310px;
+	grid-gap:60px;
+	padding:20px 0 20px 150px;
+	margin-bottom:1px;
+	
+	
+}
+.grid-item{
+	box-shadow:0 0 10px black;
+	text-align:center;
+	border-radius:10px;
+	padding:10px;
+	
+	
+}
+button{
+	background-color:orange;
+	width:90px;
+	height:27px;
+	border-color:orange;
+	color:white;
+	border-radius:4px;
+	
+}
+.sm img{
+	width:30px;
+	height:30px;
+	display:center;
+	
+}
