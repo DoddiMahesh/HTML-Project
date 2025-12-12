@@ -1,3 +1,4 @@
 # HTML-Project
-Bike rental tariffs in Hyderabad
-https://github.com/DoddiMahesh/HTML-Project.git
+Bike rental tariffs in Hyderabad <br>
+project link:bikerentalprojectinhyd.netlify.app
+
